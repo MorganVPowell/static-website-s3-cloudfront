@@ -4,7 +4,7 @@ A small static website hosted in a private Amazon S3 bucket and delivered over H
 
 ## Architecture
 
-![Architecture diagram](screenshots/architecture.png)
+![Architecture diagram](architecture.png)
 
 ```
 User -> CloudFront (HTTPS) -> Origin Access Control (OAC) -> private S3 bucket
@@ -22,13 +22,13 @@ I skipped the custom domain step from the tutorial because a domain costs money,
 
 **Distribution settings**
 
-![CloudFront distribution](screenshots/cloudfront-distribution-redacted.png)
+![CloudFront distribution](cloudfront-distribution-redacted.png)
 
 **Live site**
 
-![Hero section](screenshots/site-hero.png)
-![About section](screenshots/site-about.png)
-![Services and contact](screenshots/site-services-contact.png)
+![Hero section](site-hero.png)
+![About section](site-about.png)
+![Services and contact](site-services-contact.png)
 
 ## Repository contents
 
