@@ -1,4 +1,4 @@
-# Static Website on AWS with S3 + CloudFront
+# Static Website on AWS with S3 + CloudFront 
 
 A small static website hosted in a private Amazon S3 bucket and delivered over HTTPS through Amazon CloudFront. Built by hand in the AWS console as my second AWS project, following ProgramGuru's YouTube tutorial and adding my own page content and images.
 
